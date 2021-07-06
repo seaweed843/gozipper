@@ -1,7 +1,7 @@
 # gozipper [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 Golang zipper
 
-zip a folder or file 
+zip a folder or a file 
 
 ## Adding dependency
 ```
