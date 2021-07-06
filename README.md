@@ -23,7 +23,7 @@ import "github.com/seaweed843/gozipper"
 import "fmt"
 
 func main() {
-	err := gozipper.ZipPath("./srcFolder")
+  err := gozipper.ZipPath("./srcFolder")
   //expected result: ./srcFolder.zip
   
   err = gozipper.ZipPath("./srcFile.ext")
